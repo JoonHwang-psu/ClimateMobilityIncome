@@ -38,7 +38,7 @@ The mediation scripts take longer because each analysis runs 1,000 simulations. 
 
 | Variable | Meaning |
 |---|---|
-| `participant_id` | Neutral participant label used for repeated observations. |
+| `participant_id` | ID labels of the participants |
 | `date` | Work observation date, used to link climate and derive calendar variables. |
 | `activity` | Fishing or trading. |
 | `age` | Analyzed age in years. |
