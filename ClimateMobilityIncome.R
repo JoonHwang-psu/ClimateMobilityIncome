@@ -1,6 +1,5 @@
 ##### Climate, daily mobility, and income: main analyses
-# Manuscript 3.2 and Supplementary Information 1.4
-# Run ClimateMobilityIncome_climate.R first; all files are in the same folder.
+# Run ClimateMobilityIncome_climate.R first
 
 library(lme4)
 
